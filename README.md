@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm José Victor</h1>
-<h3 align="center">I'm a Backend developer🧑‍💻</h3>
+<h3 align="center">I'm a future backend developer🧑‍💻</h3>
 
 - 🌱 I’m currently learning **ASP.NET Core and Entity Framework**
 
