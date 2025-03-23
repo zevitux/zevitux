@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"><br>📚 I'm currently learning ASP.NET Core and Entity Framework<br>.<br></p>
+<p align="left"><br>📚 I'm currently learning ASP.NET Core and Entity Framework<br><br></p>
 
 ###
 
