@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zevitux/zevitux/main/assets/josevictor.gif" width="250"/>
-</p>
+<img src="https://raw.githubusercontent.com/zevitux/zevitux/main/assets/josevictor.gif" width="300"/>
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
