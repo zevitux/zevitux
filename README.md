@@ -9,7 +9,9 @@
 - Clean architecture with .NET  
 - Database performance and optimization
 
-## 🛠️ Tech Stack
+---
+
+## 💻 Tech Stack
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
