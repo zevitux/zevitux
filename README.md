@@ -1,12 +1,13 @@
-# 👋 Olá! Eu sou o Zevitux
+# 👋 Hi! I’m Zevitux
+![dog crazy](https://github.com/zevitux/zevitux/blob/main/assets/saas.gif?raw=true)
 
-🔭 Atualmente estou trabalhando em:  
-- Projetos pessoais com .NET e C#
-- Desenvolvimento de APIs e sistemas web
+🔭 I’m currently working on:  
+- Personal projects with .NET and C#
+- Developing APIs and web systems
 
-🌱 Atualmente estou aprendendo:  
-- Arquitetura limpa com .NET  
-- Performance e otimização de banco de dados
+🌱 I’m currently learning:  
+- Clean architecture with .NET  
+- Database performance and optimization
 
 ## 🛠️ Tech Stack
 <p align="left">
@@ -21,4 +22,4 @@
 
 ---
 
-⭐️ Não se esqueça de seguir e dar ⭐ nos repositórios que você curtir!
+⭐️ Don’t forget to follow and give ⭐ to repositories you like!
