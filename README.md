@@ -1,4 +1,4 @@
-# 👋 Hi! I’m Zevitux
+# 👋 Hi!
 ![dog crazy](https://github.com/zevitux/zevitux/blob/main/assets/saas.gif?raw=true)
 
 🔭 I’m currently working on:  
